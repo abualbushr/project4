@@ -1,0 +1,26 @@
+*{
+    background-color: #26e495;
+}
+.logo{
+    width: 350px;
+    margin: 250px auto;
+    
+}
+.sq.re{
+    background-color: #f45325;
+}
+.sq.gr{
+    background-color: #81bd06;
+}
+.sq.bl{
+    background-color: #04a6ef;
+}
+.sq.ye{
+    background-color: #ffba07;
+}
+.sq{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 0 10px 10px 0;
+}
